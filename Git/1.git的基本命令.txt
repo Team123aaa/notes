@@ -5,3 +5,4 @@ git push
 git log
 git pull
 git branch -a
+git branch --all
