@@ -6,4 +6,3 @@ git log
 git status
 git pull
 git branch branch_name
-git checkout branch_name
