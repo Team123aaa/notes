@@ -3,5 +3,5 @@ git add 文件
 git commit -m "描述"
 git push
 git log
-git status
 git pull
+git branch -a
